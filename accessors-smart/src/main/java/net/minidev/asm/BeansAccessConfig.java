@@ -5,9 +5,9 @@ import java.util.LinkedHashSet;
 
 public class BeansAccessConfig {
 	/**
-	 * Field type convertor for all classes
+	 * Field type converter for all classes
 	 * 
-	 * Convertor classes should contains mapping method Prototyped as:
+	 * Converter classes should contains mapping method Prototyped as:
 	 * 
 	 * public static DestinationType Method(Object data);
 	 * 
@@ -16,9 +16,9 @@ public class BeansAccessConfig {
 	//static protected LinkedHashSet<Class<?>> globalMapper = new LinkedHashSet<Class<?>>();
 
 	/**
-	 * Field type convertor for custom Class
+	 * Field type converter for custom Class
 	 * 
-	 * Convertor classes should contains mapping method Prototyped as:
+	 * Converter classes should contains mapping method Prototyped as:
 	 * 
 	 * public static DestinationType Method(Object data);
 	 * 
@@ -37,9 +37,9 @@ public class BeansAccessConfig {
 	}
 
 //	/**
-//	 * Field type convertor for all classes
+//	 * Field type converter for all classes
 //	 * 
-//	 * Convertor classes should contains mapping method Prototyped as:
+//	 * Converter classes should contains mapping method Prototyped as:
 //	 * 
 //	 * public static DestinationType Method(Object data);
 //	 * 
@@ -52,9 +52,9 @@ public class BeansAccessConfig {
 //	}
 
 	/**
-	 * Field type convertor for all classes
+	 * Field type converter for all classes
 	 * 
-	 * Convertor classes should contains mapping method Prototyped as:
+	 * Converter classes should contains mapping method Prototyped as:
 	 * 
 	 * public static DestinationType Method(Object data);
 	 * 

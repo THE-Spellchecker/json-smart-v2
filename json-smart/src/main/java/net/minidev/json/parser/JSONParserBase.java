@@ -697,7 +697,7 @@ abstract class JSONParserBase {
 			case '\f': // 12: form feed
 			case '\r': // 13: return carriage
 			case (char) 14: // Shift Out, alternate character set
-			case (char) 15: // Shift In, resume defaultn character set
+			case (char) 15: // Shift In, resume default character set
 			case (char) 16: // Data link escape
 			case (char) 17: // XON, with XOFF to pause listings;
 			case (char) 18: // Device control 2, block-mode flow control

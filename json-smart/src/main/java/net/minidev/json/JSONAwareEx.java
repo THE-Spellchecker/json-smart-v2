@@ -18,7 +18,7 @@ package net.minidev.json;
 /**
  * Beans that support advanced output of JSON text shall implement this interface.
  * 
- * Adding compressions and formating features
+ * Adding compressions and formatting features
  * 
  * @author Uriel Chemouni &lt;uchemouni@gmail.com&gt;
  */

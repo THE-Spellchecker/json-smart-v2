@@ -42,7 +42,7 @@ public class ConvertDate {
 	}
 
 	/**
-	 * @return a current timezoned 01/01/2000 00:00:00 GregorianCalendar
+	 * @return a current timezone 01/01/2000 00:00:00 GregorianCalendar
 	 */
 	private static GregorianCalendar newCalandar() {
 		GregorianCalendar cal = new GregorianCalendar(2000, 0, 0, 0, 0, 0);
@@ -217,7 +217,7 @@ public class ConvertDate {
 	}
 	/**
 	 * @param st StringTokenizer
-	 * @param s1 privious token
+	 * @param s1 previous token
 	 * @return a date
 	 */
 	private static Date getMMDDYYYY(StringTokenizer st, String s1) {
